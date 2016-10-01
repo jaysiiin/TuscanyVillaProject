@@ -19,10 +19,64 @@
     font-weight:normal;
 
 }
+
 .navbar-header{
     /*come back here to fix the brand thingy*/
     color:white;
 }
+
+.row{
+    width:auto;
+    height:350px;
+}
+
+.image{
+    position:relative;
+    margin:0px;
+    width:100%;
+}
+
+#pic1Text{
+    position:absolute;
+    text-align:center;
+    top:150px;
+    left:0;
+    width:100%;
+    letter-spacing:3px;
+    font-weight:bold;
+    
+}
+
+.backgroundPic1Text{
+    background-color:#444444;
+    color:white;
+    opacity:0.8; 
+    font-weight:bold;
+}
+
+#pic2Text{
+    position:absolute;
+    text-align:center;
+    top:150px;
+    left:0;
+    width:100%;
+    letter-spacing:3px;
+
+}
+
+.backgroundPic2Text{
+    background-color:#ffffff;
+    color:#444444; 
+    opacity:0.8;
+    font-weight:bold;
+}
+
+.img-responsive{
+    width:inherit;
+    height:100%;
+}
+
+
 
 
 
