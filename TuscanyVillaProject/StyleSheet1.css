@@ -20,20 +20,34 @@
 
 }
 
-.navbar-header{
-    /*come back here to fix the brand thingy*/
+#brandColor{
+    background-color:#827f80;
     color:white;
 }
 
-.row{
-    width:auto;
-    height:350px;
+#propertiesColor{
+    background-color:#83bcd9;
+    color:white;
+}
+
+.navbar-collapse {
+  text-align:center;
+}
+.navbar-nav {
+    display:inline-block;
+    float:none;
 }
 
 .image{
     position:relative;
     margin:0px;
     width:100%;
+}
+
+.img-responsive{
+    width:auto;
+    height:auto;
+    max-height:350px 
 }
 
 #pic1Text{
@@ -61,6 +75,7 @@
     left:0;
     width:100%;
     letter-spacing:3px;
+    font-weight:bold;
 
 }
 
@@ -72,16 +87,12 @@
 }
 
 #footerImage{
-    width: auto;
-    height: auto;
     max-width:40px;
     max-height:40px;
+    -webkit-filter: grayscale(100%); filter: grayscale(100%);
 }
 
-.img-responsive{
-    width:inherit;
-    height:100%;
-}
+
 
 
 
