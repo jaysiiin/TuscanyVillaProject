@@ -44,12 +44,6 @@
     width:100%;
 }
 
-.img-responsive{
-    width:auto;
-    height:auto;
-    max-height:350px 
-}
-
 #pic1Text{
     position:absolute;
     text-align:center;
@@ -84,6 +78,11 @@
     color:#444444; 
     opacity:0.8;
     font-weight:bold;
+}
+
+.nopadding{
+   padding: 0px;
+   margin: 0px;
 }
 
 #footerImage{
