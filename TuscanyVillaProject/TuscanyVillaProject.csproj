@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="pictures\109617.png" />
     <Content Include="pictures\1194989379339979681pattern-pinstripes-diagonal.svg.hi.png" />
     <Content Include="pictures\314-348x348.jpg" />
     <Content Include="pictures\3b-348x348.jpg" />
