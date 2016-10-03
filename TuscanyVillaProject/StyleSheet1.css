@@ -57,6 +57,8 @@
 
 .backgroundPic1Text{
     background-color:#444444;
+    top:150px;
+    left:0px;
     color:white;
     opacity:0.8; 
     font-weight:bold;
@@ -89,8 +91,8 @@
     position:absolute;
     text-align:center;
     top:100px;
-    margin-left:35px;
-    margin-right:35px;
+    margin-left:45px;
+    margin-right:45px;
     letter-spacing:3px;
     font-weight:bold;
     font-size:13px;
@@ -105,8 +107,7 @@
     position:absolute;
     text-align:center;
     top:100px;
-    margin-left:35px;
-    margin-right:35px;
+    margin:70px;
     letter-spacing:3px;
     font-weight:bold;
     font-size:13px;
@@ -122,8 +123,7 @@
     position:absolute;
     text-align:center;
     top:100px;
-    margin-left:35px;
-    margin-right:35px;
+    margin:70px;
     letter-spacing:3px;
     font-weight:bold;
     font-size:13px;
@@ -139,8 +139,7 @@
     position:absolute;
     text-align:center;
     top:100px;
-    margin-left:35px;
-    margin-right:35px;
+    margin:70px;
     letter-spacing:3px;
     font-weight:bold;
     font-size:13px;
@@ -155,19 +154,89 @@
 #pic8Text{
     position:absolute;
     text-align:center;
-    top:40px;
+    top:30px;
     margin-left:35px;
     margin-right:35px;
     letter-spacing:3px;
     font-weight:bold;
     font-size:13px;
     color:#444444;
-    font-weight:bold;
-        
 }
 
 #bold8Text{
+    font-weight:bolder;
+    font-size:15px;
+}
+
+
+#link8{
+    border:2px #444444 solid;
+    padding:4px;
+}
+
+#pic10Text{
+    position:absolute;
+    text-align:center;
+    top:30px;
+    margin-left:35px;
+    margin-right:35px;
+    letter-spacing:3px;
     font-weight:bold;
+    font-size:13px;
+    color:#444444;
+}
+
+#bold10Text{
+    font-weight:bolder;
+    font-size:15px;
+}
+
+#link10{
+    border:2px #444444 solid;
+    padding:4px;
+}
+
+#pic11Text{
+    position:absolute;
+    text-align:center;
+    top:30px;
+    margin-left:35px;
+    margin-right:35px;
+    letter-spacing:3px;
+    font-weight:bold;
+    font-size:13px;
+    color:#444444;
+}
+
+#bold11Text{
+    font-weight:bolder;
+    font-size:15px;
+}
+
+#pic13Text{
+    position:absolute;
+    text-align:center;
+    width:100%;
+    letter-spacing:3px;
+    font-weight:bold;
+    background-color: #66cfc0;
+    color:white;
+    font-size:15px;
+    border:1px black solid;
+    padding:50px;
+}
+#customerReview{
+    font-size:14px;
+}
+
+#customerLink{
+    border: 1px black solid;
+    color:black;
+    padding:1px;
+    margin-bottom:1px;
+}
+#partnerPicture{
+    text-align:center;
 }
 
 #footerImage{
