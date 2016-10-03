@@ -151,6 +151,15 @@
     opacity:0.8;
 }
 
+.villaPaola{
+    position:absolute;
+    text-align:center;
+    bottom:15px;
+    margin-left:35px;
+    margin-right:35px;
+
+}
+
 #pic8Text{
     position:absolute;
     text-align:center;
@@ -236,13 +245,14 @@
     margin-bottom:1px;
 }
 #partnerPicture{
-    text-align:center;
+    margin:30px auto 10px auto;
 }
 
 #footerImage{
     max-width:40px;
     max-height:40px;
     -webkit-filter: grayscale(100%); filter: grayscale(100%);
+    float:right;
 }
 
 
