@@ -9,7 +9,6 @@
     font-size:40px;
     letter-spacing:11px;
     font-weight:bold;
-
 }
 
 #cursive{
@@ -17,7 +16,6 @@
     font-size:35px;
     letter-spacing:0px;
     font-weight:normal;
-
 }
 
 #brandColor{
@@ -38,11 +36,6 @@
     float:none;
 }
 
-.image{
-    position:relative;
-    margin:0px;
-    width:100%;
-}
 
 #pic1Text{
     position:absolute;
@@ -157,6 +150,11 @@
     bottom:15px;
     margin-left:35px;
     margin-right:35px;
+    background-color:#444444;
+    color:white;
+    opacity:0.8;
+    font-weight:bold;
+    
 
 }
 
@@ -181,6 +179,19 @@
 #link8{
     border:2px #444444 solid;
     padding:4px;
+}
+
+.laVilla{
+    position:absolute;
+    text-align:center;
+    bottom:15px;
+    margin-left:35px;
+    margin-right:35px;
+    background-color:#444444;
+    color:white;
+    opacity:0.8;
+    font-weight:bold;
+  
 }
 
 #pic10Text{
@@ -222,6 +233,19 @@
     font-size:15px;
 }
 
+.villaDeiGigli{
+    position:absolute;
+    text-align:center;
+    bottom:15px;
+    margin-left:35px;
+    margin-right:35px;
+    background-color:#444444;
+    color:white;
+    opacity:0.8;
+    font-weight:bold;
+  
+}
+
 #pic13Text{
     position:absolute;
     text-align:center;
@@ -252,7 +276,7 @@
     max-width:40px;
     max-height:40px;
     -webkit-filter: grayscale(100%); filter: grayscale(100%);
-    float:right;
+   
 }
 
 
